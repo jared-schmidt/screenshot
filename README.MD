@@ -1,8 +1,8 @@
 ### TODOs
-[] Clean up readme
-[] Do TODOs in code
-[] Clean up code
-[] better to install chrome / use puppeter-core?
+- [ ] Clean up readme
+- [ ] Do TODOs in code
+- [ ] Clean up code
+- [ ] better to install chrome / use puppeter-core?
 
 ### Local
 1. `npm install`
