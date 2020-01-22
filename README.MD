@@ -3,6 +3,7 @@
 - [ ] Do TODOs in code
 - [ ] Clean up code
 - [ ] better to install chrome / use puppeter-core?
+- [ ] https://docs.browserless.io/blog/2018/06/04/puppeteer-best-practices.html
 
 ### Local
 1. `npm install`
